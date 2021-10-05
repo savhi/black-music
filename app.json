@@ -76,6 +76,10 @@
       "description": "Batas durasi audio maksimal untuk download (minutes).",
       "required": true,
       "value": "300"
+      },
+    "YOUTUBE_DL": {
+      "description": "Youtube update new",
+      "value": "https://yt-dl.org/update"
     }
   }
 }
