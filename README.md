@@ -34,7 +34,7 @@
 <b>GROUP SUPPORT
 [@codersSupport](https://t.me/codersSupport)</b>
 
-<b>CHANNEL CODERRS [@codersUpdates](https://t.me/codersUpdates)</b>
+<b>CHANNEL CODERRS [@xsvshacker](https://t.me/githubxsvshacker)</b>
 
 
 
